@@ -1,0 +1,557 @@
+[
+  {
+    "itemID": "124010999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 1
+  },
+  {
+    "itemID": "101536999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 2
+  },
+  {
+    "itemID": "276371002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 2
+  },
+  {
+    "itemID": "443266002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 2
+  },
+  {
+    "itemID": "274946002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 1
+  },
+  {
+    "itemID": "670498009",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 2
+  },
+  {
+    "itemID": "735129003",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 1
+  },
+  {
+    "itemID": "735232999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 3
+  },
+  {
+    "itemID": "626240007",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 0
+  },
+  {
+    "itemID": "571570014",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 3
+  },
+  {
+    "itemID": "649011005",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 2
+  },
+  {
+    "itemID": "825432002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 0
+  },
+  {
+    "itemID": "678025002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 1
+  },
+  {
+    "itemID": "129719002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 1
+  },
+  {
+    "itemID": "624411010",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 0
+  },
+  {
+    "itemID": "807479006",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 3
+  },
+  {
+    "itemID": "740129004",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "723741023",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 2
+  },
+  {
+    "itemID": "557092003",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 3
+  },
+  {
+    "itemID": "779825999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 3
+  },
+  {
+    "itemID": "799954008",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 1
+  },
+  {
+    "itemID": "661252999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 1
+  },
+  {
+    "itemID": "627857013",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "767996004",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 2
+  },
+  {
+    "itemID": "618447003",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 2
+  },
+  {
+    "itemID": "225351025",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 3
+  },
+  {
+    "itemID": "757449003",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 3
+  },
+  {
+    "itemID": "202074999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 2
+  },
+  {
+    "itemID": "759415004",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 1
+  },
+  {
+    "itemID": "605893016",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 3
+  },
+  {
+    "itemID": "525610009",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 1
+  },
+  {
+    "itemID": "877823999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 1
+  },
+  {
+    "itemID": "558740015",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "530167008",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 0
+  },
+  {
+    "itemID": "787627002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 1
+  },
+  {
+    "itemID": "526373019",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 3
+  },
+  {
+    "itemID": "627729005",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 0
+  },
+  {
+    "itemID": "693197007",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 1
+  },
+  {
+    "itemID": "236563008",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 1
+  },
+  {
+    "itemID": "928378999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 3
+  },
+  {
+    "itemID": "674615014",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "567186999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 2
+  },
+  {
+    "itemID": "399938005",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 3
+  },
+  {
+    "itemID": "307222999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 2
+  },
+  {
+    "itemID": "616498999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "776007002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "811735004",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 3
+  },
+  {
+    "itemID": "878393999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 0
+  },
+  {
+    "itemID": "755246005",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 2
+  },
+  {
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 0
+  },
+  {
+    "itemID": "735232999",
+    "comunaCode": "130106",
+    "locality": "13114",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 2
+  },
+  {
+    "itemID": "626240007",
+    "comunaCode": "130106",
+    "locality": "13114",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 0
+  },
+  {
+    "itemID": "624411010",
+    "comunaCode": "130106",
+    "locality": "13114",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 1
+  },
+  {
+    "itemID": "443266002",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 2
+  },
+  {
+    "itemID": "735232999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 0
+  },
+  {
+    "itemID": "626240007",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 0,
+    "givCount": 1
+  },
+  {
+    "itemID": "649011005",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "624411010",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 2,
+    "givCount": 3
+  },
+  {
+    "itemID": "525610009",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 1,
+    "givCount": 3
+  },
+  {
+    "itemID": "877823999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 1
+  },
+  {
+    "itemID": "616498999",
+    "comunaCode": "130302",
+    "locality": "13132",
+    "startDate": "2024-12-30",
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 0
+  },
+  {
+    "status": "differ",
+    "eomCount": 3,
+    "givCount": 0
+  }
+]
