@@ -103,25 +103,6 @@ function filterServiceableGivOptions(givOptions, givCount) {
     });
 }
 
-function formatDate(date) {
-  if (typeof date === "string") {
-    const ddmmyyyyMatch = date.match(/^\d{2}\/\d{2}\/\d{4}$/);
-    if (ddmmyyyyMatch) {
-      const [day, month, year] = date.split("/");
-      return `${year}-${month}-${day}`;
-    }
-
-    const yyyymmddMatch = date.match(/^\d{4}-\d{2}-\d{2}$/);
-    if (yyyymmddMatch) {
-      return date;
-    }
-
-    console.error("Invalid date format:", date);
-    return null;
-  }
-  return null;
-}
-
 async function fetchPdpShippingOptions(itemID, comunaCode, startDate) {
   try {
     const formattedDate = startDate.split("/").reverse().join("-");
